@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://iblancasa.github.io/pruebaOctopress/sitemap.xml 
